@@ -3,24 +3,26 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://titanharborholdings.com"),
-  title: "Titan Harbor Holdings | AI Infrastructure For Modern Business",
+  title: "TitanOS by Titan Harbor Holdings | AI Operating System For Business Execution",
   description:
-    "Titan Harbor Holdings is an AI-powered venture and automation infrastructure company building intelligent systems, digital operations, and scalable business ecosystems.",
+    "TitanOS is the AI operating system for business execution, helping companies detect operational issues, route work, generate reports, monitor KPIs, and improve daily follow-through.",
   keywords: [
-    "AI automation",
-    "AI infrastructure",
+    "TitanOS",
+    "operational execution system",
+    "business execution software",
+    "AI operating system",
+    "operational visibility",
+    "workflow accountability",
+    "issue detection",
+    "business intelligence",
+    "AI reporting",
     "business automation",
-    "AI holding company",
-    "digital systems",
-    "workflow automation",
-    "AI chatbot",
-    "business ventures",
     "Titan Harbor Holdings",
   ],
   openGraph: {
-    title: "Titan Harbor Holdings | AI Infrastructure For Modern Business",
+    title: "TitanOS | AI Operating System For Business Execution",
     description:
-      "AI-powered venture and automation infrastructure for modern businesses.",
+      "Operational visibility, issue detection, workflow accountability, reporting, and business memory inside one private AI command layer.",
     url: "https://titanharborholdings.com",
     siteName: "Titan Harbor Holdings",
     images: [
@@ -28,7 +30,7 @@ export const metadata: Metadata = {
         url: "/images/titan-harbor-houston-command-center.png",
         width: 1600,
         height: 900,
-        alt: "Titan Harbor Holdings AI headquarters overlooking Houston at night",
+        alt: "TitanOS AI command center overlooking Houston at night",
       },
     ],
     locale: "en_US",
@@ -36,8 +38,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Titan Harbor Holdings",
-    description: "AI Operating Systems For Modern Business.",
+    title: "TitanOS by Titan Harbor Holdings",
+    description: "The AI operating system for business execution.",
     images: ["/images/titan-harbor-houston-command-center.png"],
   },
   alternates: {

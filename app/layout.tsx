@@ -3,26 +3,25 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://titanharborholdings.com"),
-  title: "TitanOS by Titan Harbor Holdings | AI Operating System For Business Execution",
+  title: "Titan Harbor Holdings | AI Ideas, Venture Systems & Automation Infrastructure",
   description:
-    "TitanOS is the AI operating system for business execution, helping companies detect operational issues, route work, generate reports, monitor KPIs, and improve daily follow-through.",
+    "Titan Harbor Holdings is an AI-powered holding company investing in, building, automating, and scaling practical AI ideas, digital infrastructure, and modern business systems.",
   keywords: [
-    "TitanOS",
-    "operational execution system",
-    "business execution software",
-    "AI operating system",
-    "operational visibility",
-    "workflow accountability",
-    "issue detection",
-    "business intelligence",
-    "AI reporting",
-    "business automation",
     "Titan Harbor Holdings",
+    "AI holding company",
+    "AI ideas",
+    "AI investments",
+    "AI venture studio",
+    "AI automation",
+    "business automation",
+    "digital infrastructure",
+    "workflow automation",
+    "AI business ideas",
   ],
   openGraph: {
-    title: "TitanOS | AI Operating System For Business Execution",
+    title: "Titan Harbor Holdings | AI Ideas & Venture Infrastructure",
     description:
-      "Operational visibility, issue detection, workflow accountability, reporting, and business memory inside one private AI command layer.",
+      "An AI-powered holding company focused on practical AI ideas, automation systems, venture infrastructure, and real-world execution.",
     url: "https://titanharborholdings.com",
     siteName: "Titan Harbor Holdings",
     images: [
@@ -30,7 +29,7 @@ export const metadata: Metadata = {
         url: "/images/titan-harbor-houston-command-center.png",
         width: 1600,
         height: 900,
-        alt: "TitanOS AI command center overlooking Houston at night",
+        alt: "Titan Harbor Holdings AI venture headquarters overlooking Houston at night",
       },
     ],
     locale: "en_US",
@@ -38,8 +37,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "TitanOS by Titan Harbor Holdings",
-    description: "The AI operating system for business execution.",
+    title: "Titan Harbor Holdings",
+    description: "AI ideas. Venture systems. Real-world execution.",
     images: ["/images/titan-harbor-houston-command-center.png"],
   },
   alternates: {
